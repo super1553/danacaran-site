@@ -1,0 +1,51 @@
+<!DOCTYPE html><html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>だなきゃらん Official Website</title>
+<meta name="description" content="だなきゃらん Official Website"><link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
+</head><body><header class="hero"><div class="overlay"></div><div class="hero-content"><h1>だなきゃらん</h1><p class="tagline">
+痛みも孤独も、歌になる。
+</p><nav>
+<a href="#about">ABOUT</a>
+<a href="#member">MEMBER</a>
+<a href="#music">MUSIC</a>
+<a href="#sns">SNS</a>
+</nav></div></header><section id="about"><h2>ABOUT</h2><p>
+ダークな世界観とキャッチーなメロディを融合した音楽プロジェクト。孤独、依存、拒絶、愛情。
+
+現代社会に潜む感情を描き出す楽曲を制作している。
+
+</p></section><section id="member"><h2>MEMBER</h2><div class="members"><div class="member-card">
+<img src="images/akaishi.jpg" alt="赤石">
+<h3>赤石</h3>
+<p>Vocal</p>
+</div><div class="member-card">
+<img src="images/shiraishi.jpg" alt="白石">
+<h3>白石</h3>
+<p>Guitar</p>
+</div><div class="member-card">
+<img src="images/kei-silhouette.jpg" alt="Kei">
+<h3>Kei</h3>
+<p>Producer</p>
+</div></div></section><section id="music"><h2>MUSIC</h2><ul class="song-list">
+<li>完璧な彼女の死に方</li>
+<li>量産型ラブソング</li>
+<li>かごめかごめや恨めや恨め</li>
+</ul></section><section class="youtube"><h2>YOUTUBE</h2><a class="button"
+href="https://youtube.com/channel/UC9soI1ywAgHoRtAgsZXfPHg?si=2YwZf7ieo5B8s3_s"
+target="_blank">
+YouTube Channel
+</a>
+
+</section><section id="sns"><h2>SNS</h2><div class="sns-links"><a href="https://x.com/danacaran00" target="_blank">
+公式X
+</a><a href="https://x.com/paterukapotoru" target="_blank">
+赤石
+</a><a href="https://x.com/shiraishiannan" target="_blank">
+白石
+</a></div></section><footer>© DANACARAN
+
+</footer></body>
+</html>
